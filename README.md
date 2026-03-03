@@ -9,7 +9,7 @@
   <a href="https://hh.ru/resume/20db6064ff0cf06e7b0039ed1f317233493346">
     <img src="https://img.shields.io/badge/Resume-hh.ru-critical?style=for-the-badge&logoColor=white" alt="Resume Badge" />
   </a>
-  <a href="fedorsmorodskii@gmail.com">
+  <a href="mailto:fedorsmorodskii@gmail.com">
     <img src="https://img.shields.io/badge/Email-4A7EBB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </div>
