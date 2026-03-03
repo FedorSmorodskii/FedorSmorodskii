@@ -59,4 +59,4 @@
 
 - Полное резюме: [hh.ru](https://hh.ru/resume/20db6064ff0cf06e7b0039ed1f317233493346)
 - Telegram: `@FedorSmorodskii`
-- Email: `fedorsmorodskii@gmail.com`
+- Email: [fedorsmorodskii@gmail.com](mailto:fedorsmorodskii@gmail.com)
