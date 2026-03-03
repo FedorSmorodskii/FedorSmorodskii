@@ -28,7 +28,7 @@
 - **Профессионально**: проектирую REST/HTTP API, очереди и фоныe задачи, системы сбора данных и интеграции между сервисами.
 - **Технологии**: Python 3, FastAPI, Scrapy, aiohttp, PostgreSQL, Redis, Docker, Linux, Git, pytest.
 - **Интересы**: high‑load парсинг, антибот‑обход (CAPTCHA/JS‑протекции), асинхронные сервисы, data‑driven продукты.
-- **Связаться**: лучше всего через Telegram — `@FedorSmorodskii`.
+- **Связаться**: лучше всего через Telegram `@FedorSmorodskii`.
 
 ---
 
