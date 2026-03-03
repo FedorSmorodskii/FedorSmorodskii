@@ -51,21 +51,5 @@
 - **Продакшен‑парсеры и data‑pipelines**: Scrapy‑проекты, которые устойчиво переживают блокировки, капчи и изменения HTML.
 - **Backend‑сервисы**: FastAPI‑приложения с чистой архитектурой, валидацией, логированием и тестами.
 - **Интеграции и автоматизация**: соединяю внешние API, очереди, webhooks и админ‑интерфейсы в единую систему.
-
----
-
-### 📊 GitHub статистика
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=FedorSmorodskii&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FedorSmorodskii&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorSmorodskii&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-> Идеи оформления и статистики вдохновлены материалами с Habr, The Unlimited и Proglib:  
-> [`Как информативно оформить профиль на GitHub?`](https://habr.com/ru/articles/813399/),  
-> [`Как оформить профиль на GitHub с помощью GitHub Profile Readme`](https://the-unl.com/kak-oformit-profil-na-github-s-pomoshchyu-github-profile-readme-21),  
 > [`Как креативно оформить профиль на GitHub`](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17).
 
