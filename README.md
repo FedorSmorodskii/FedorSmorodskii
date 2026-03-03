@@ -22,8 +22,8 @@
 
 ### 👋 Привет, я Фёдор
 
-**Python 3 backend developer (Moscow, BrandQuad)**  
-Строю надёжные backend‑сервисы, парсеры и интеграции для e‑commerce и внутренней аналитики.
+**Python 3 backend developer**  
+Строю надёжные backend‑сервисы, парсеры и интеграции для e‑commerce и не только.
 
 - 💼 **Профессионально**: проектирую REST/HTTP API, очереди и фоныe задачи, системы сбора данных и интеграции между сервисами.
 - 🐍 **Технологии**: Python 3, FastAPI, Scrapy, aiohttp, PostgreSQL, Redis, Docker, Linux, Git, pytest.
