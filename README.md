@@ -25,7 +25,7 @@
 **Python 3 backend developer**  
 Строю надёжные backend‑сервисы, парсеры и интеграции для e‑commerce и не только.
 
-- **Профессионально**: проектирую REST/HTTP API, очереди и фоныe задачи, системы сбора данных и интеграции между сервисами.
+- **Профессионально**: проектирую Scrapy‑проекты, которые переживают блокировки, капчи и изменения HTML / API.
 - **Технологии**: Python 3, FastAPI, Scrapy, aiohttp, PostgreSQL, Redis, Docker, Linux, Git, pytest.
 - **Интересы**: high‑load парсинг, антибот‑обход (CAPTCHA/JS‑протекции), асинхронные сервисы, data‑driven продукты.
 - **Связаться**: лучше всего через Telegram `@FedorSmorodskii`.
@@ -43,15 +43,6 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### Что я делаю
-
-- **Парсинг под продакшен**: Scrapy‑проекты, которые переживают блокировки, капчи и изменения HTML / API.
-- **Backend‑сервисы**: разработка и поддержка FastAPI‑сервисов с аутентификацией, валидацией, логированием и тестами.
-- **Интеграции**: соединяю внешние API, очереди, webhooks и админ‑панели в единую систему.
-- **Оптимизация и поддержка**: ускорение существующих парсеров/сервисов, снижение количества падений и блокировок.
 
 ---
 
