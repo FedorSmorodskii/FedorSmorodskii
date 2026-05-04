@@ -20,19 +20,19 @@
 
 ---
 
-### 👋 Привет, я Фёдор
+### 👋 Hi, I'm Fedor
 
 **Python 3 backend developer**  
-Строю надёжные backend‑сервисы, парсеры и интеграции для e‑commerce и не только.
+Building reliable backend services, scrapers, and integrations for e‑commerce and beyond.
 
-- **Профессионально**: проектирую Scrapy‑проекты, которые переживают блокировки, капчи и изменения HTML / API.
-- **Технологии**: Python 3, FastAPI, Scrapy, aiohttp, PostgreSQL, Redis, Docker, Linux, Git, pytest.
-- **Интересы**: high‑load парсинг, антибот‑обход (CAPTCHA/JS‑протекции), асинхронные сервисы, data‑driven продукты.
-- **Связаться**: лучше всего через Telegram `@FedorSmorodskii`.
+- **Professionally**: designing Scrapy projects that survive blocks, captchas, and HTML/API changes.
+- **Tech stack**: Python 3, FastAPI, Scrapy, aiohttp, PostgreSQL, Redis, Docker, Linux, Git, pytest.
+- **Interests**: high‑load parsing, anti‑bot evasion (CAPTCHA/JS protections), asynchronous services, data‑driven products.
+- **Contact me**: best via Telegram `@FedorSmorodskii`.
 
 ---
 
-### Стек и инструменты
+### Stack & tools
 
 <div>
   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -46,8 +46,8 @@
 
 ---
 
-### Резюме и контакты
+### Resume & contacts
 
-- Полное резюме: [hh.ru](https://hh.ru/resume/20db6064ff0cf06e7b0039ed1f317233493346)
+- Full resume: [hh.ru](https://hh.ru/resume/20db6064ff0cf06e7b0039ed1f317233493346)
 - Telegram: `@FedorSmorodskii`
 - Email: [fedorsmorodskii@gmail.com](mailto:fedorsmorodskii@gmail.com)
